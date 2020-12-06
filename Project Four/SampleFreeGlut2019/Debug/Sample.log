@@ -1,0 +1,43 @@
+﻿  sample.cpp
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\loadobjfile.cpp(128,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\loadobjfile.cpp(131,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\loadobjfile.cpp(134,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\loadobjfile.cpp(152,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\loadobjfile.cpp(155,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\loadobjfile.cpp(158,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\loadobjfile.cpp(177,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\loadobjfile.cpp(181,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\loadobjfile.cpp(185,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\loadobjfile.cpp(370,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\loadobjfile.cpp(390,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\sphere.cpp(61,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\sphere.cpp(62,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\sphere.cpp(63,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\sphere.cpp(66,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\sphere.cpp(67,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\sphere.cpp(68,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\sphere.cpp(76,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\sphere.cpp(77,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\sample.cpp(171,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\sample.cpp(330,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\sample.cpp(448,72): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\sample.cpp(451,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\sample.cpp(452,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\sample.cpp(453,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\sample.cpp(459,73): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\sample.cpp(470,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\sample.cpp(478,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\sample.cpp(502,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\sample.cpp(511,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\sample.cpp(522,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\sample.cpp(533,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\sample.cpp(535,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\sample.cpp(543,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\sample.cpp(563,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\sample.cpp(564,66): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\sample.cpp(564,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\sample.cpp(564,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\sample.cpp(565,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\sample.cpp(566,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\pchip\Documents\Project Four\SampleFreeGlut2019\.\Debug\Sample.exe

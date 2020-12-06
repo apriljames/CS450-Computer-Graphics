@@ -1,0 +1,12 @@
+﻿  sample.cpp
+Z:\engineering_courses\cs450\Project One\Sample2019\SampleFreeGlut2019\sample.cpp(886,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Z:\engineering_courses\cs450\Project One\Sample2019\SampleFreeGlut2019\sample.cpp(895,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Z:\engineering_courses\cs450\Project One\Sample2019\SampleFreeGlut2019\sample.cpp(895,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Z:\engineering_courses\cs450\Project One\Sample2019\SampleFreeGlut2019\sample.cpp(897,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Z:\engineering_courses\cs450\Project One\Sample2019\SampleFreeGlut2019\sample.cpp(897,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Z:\engineering_courses\cs450\Project One\Sample2019\SampleFreeGlut2019\sample.cpp(899,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Z:\engineering_courses\cs450\Project One\Sample2019\SampleFreeGlut2019\sample.cpp(899,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Z:\engineering_courses\cs450\Project One\Sample2019\SampleFreeGlut2019\sample.cpp(900,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Z:\engineering_courses\cs450\Project One\Sample2019\SampleFreeGlut2019\sample.cpp(901,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> Z:\engineering_courses\cs450\Project One\Sample2019\SampleFreeGlut2019\.\Debug\Sample.exe

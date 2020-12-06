@@ -1,0 +1,7 @@
+
+ERROR: 0:53: 'ambient' : undeclared identifier 
+ERROR: 0:53: 'diffuse' : undeclared identifier 
+ERROR: 0:53: 'specular' : undeclared identifier 
+ERROR: 0:54: 'constructor' : not enough data provided for construction 
+
+

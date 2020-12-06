@@ -1,0 +1,13 @@
+﻿  sample.cpp
+Z:\engineering_courses\cs450\Project Three\SampleFreeGlut2019\sphere.cpp(61,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Z:\engineering_courses\cs450\Project Three\SampleFreeGlut2019\sphere.cpp(62,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Z:\engineering_courses\cs450\Project Three\SampleFreeGlut2019\sphere.cpp(63,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Z:\engineering_courses\cs450\Project Three\SampleFreeGlut2019\sphere.cpp(66,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Z:\engineering_courses\cs450\Project Three\SampleFreeGlut2019\sphere.cpp(67,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Z:\engineering_courses\cs450\Project Three\SampleFreeGlut2019\sphere.cpp(68,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Z:\engineering_courses\cs450\Project Three\SampleFreeGlut2019\sphere.cpp(78,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Z:\engineering_courses\cs450\Project Three\SampleFreeGlut2019\sphere.cpp(84,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Z:\engineering_courses\cs450\Project Three\SampleFreeGlut2019\sphere.cpp(85,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Z:\engineering_courses\cs450\Project Three\SampleFreeGlut2019\sample.cpp(462,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> Z:\engineering_courses\cs450\Project Three\SampleFreeGlut2019\.\Debug\Sample.exe

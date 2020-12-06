@@ -1,0 +1,4 @@
+C:\MJB\CS550\SampleFreeGlut2019\Debug\Sample.exe
+C:\MJB\CS550\SampleFreeGlut2019\Debug\Sample.pdb
+Z:\engineering_courses\cs450\Project One\Sample2019\SampleFreeGlut2019\Debug\Sample.exe
+Z:\engineering_courses\cs450\Project One\Sample2019\SampleFreeGlut2019\Debug\Sample.pdb

@@ -1,0 +1,13 @@
+﻿  sample.cpp
+Z:\engineering_courses\cs450\Project Two\SampleFreeGlut2019\sample.cpp(312,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Z:\engineering_courses\cs450\Project Two\SampleFreeGlut2019\sample.cpp(444,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Z:\engineering_courses\cs450\Project Two\SampleFreeGlut2019\sample.cpp(449,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Z:\engineering_courses\cs450\Project Two\SampleFreeGlut2019\sample.cpp(450,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Z:\engineering_courses\cs450\Project Two\SampleFreeGlut2019\sample.cpp(458,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Z:\engineering_courses\cs450\Project Two\SampleFreeGlut2019\sample.cpp(469,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Z:\engineering_courses\cs450\Project Two\SampleFreeGlut2019\sample.cpp(903,45): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Z:\engineering_courses\cs450\Project Two\SampleFreeGlut2019\sample.cpp(905,46): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Z:\engineering_courses\cs450\Project Two\SampleFreeGlut2019\sample.cpp(907,47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Z:\engineering_courses\cs450\Project Two\SampleFreeGlut2019\sample.cpp(909,46): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> Z:\engineering_courses\cs450\Project Two\SampleFreeGlut2019\.\Debug\Sample.exe

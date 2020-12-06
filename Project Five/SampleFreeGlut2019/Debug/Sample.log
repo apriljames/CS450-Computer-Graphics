@@ -1,0 +1,11 @@
+﻿  sample.cpp
+C:\Users\pchip\Documents\Engineering_Courses\Project Five\SampleFreeGlut2019\osusphere.cpp(57,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pchip\Documents\Engineering_Courses\Project Five\SampleFreeGlut2019\osusphere.cpp(58,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pchip\Documents\Engineering_Courses\Project Five\SampleFreeGlut2019\osusphere.cpp(59,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pchip\Documents\Engineering_Courses\Project Five\SampleFreeGlut2019\osusphere.cpp(62,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pchip\Documents\Engineering_Courses\Project Five\SampleFreeGlut2019\osusphere.cpp(63,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pchip\Documents\Engineering_Courses\Project Five\SampleFreeGlut2019\osusphere.cpp(64,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pchip\Documents\Engineering_Courses\Project Five\SampleFreeGlut2019\osusphere.cpp(72,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pchip\Documents\Engineering_Courses\Project Five\SampleFreeGlut2019\osusphere.cpp(73,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+glslprogram.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\pchip\Documents\Engineering_Courses\Project Five\SampleFreeGlut2019\.\Debug\Sample.exe
